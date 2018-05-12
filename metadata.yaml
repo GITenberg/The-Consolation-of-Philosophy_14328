@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4992
     wikipedia: http://en.wikipedia.org/wiki/Anicius_Manlius_Severinus_Boethius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14328#The-Consolation-of-Philosophy
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-12-11'
 gutenberg_type: Text
