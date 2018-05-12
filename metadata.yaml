@@ -1,0 +1,38 @@
+_repo: The-Consolation-of-Philosophy_14328
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: James, H. R. (Henry Rosher)
+    alias: James, Henry Rosher
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '25656'
+    url: http://www.gutenberg.org/2009/agents/25656
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boethius
+    alias: Boethius, Anicius Manlius Severinus
+    birthdate: 480
+    deathdate: 524
+    gutenberg_agent_id: '4992'
+    url: http://www.gutenberg.org/2009/agents/4992
+    wikipedia: http://en.wikipedia.org/wiki/Anicius_Manlius_Severinus_Boethius
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Happiness'
+- !lcsh 'Philosophy and religion'
+title: The Consolation of Philosophy
+url: http://www.gutenberg.org/ebooks/14328
